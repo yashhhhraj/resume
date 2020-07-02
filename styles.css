@@ -110,3 +110,20 @@ body {
   height: 80px;
   margin: 20px;
 }
+.exppic {
+  height: 80px;
+}
+.tbl {
+  position: relative;
+  text-align: center;
+  margin: 20px;
+  padding: 40px;
+  font-family: 'Montserrat', sans-serif;
+
+}
+.date {
+  color: red;
+}
+.wrk {
+  font-family: 'Montserrat', sans-serif;
+}
